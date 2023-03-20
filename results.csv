@@ -2,10 +2,10 @@ home_team,away_team,home_goals,away_goals,result,season
 Sheffield United,Liverpool,1.0,1.0,D,2006-2007
 Arsenal,Aston Villa,1.0,1.0,D,2006-2007
 Everton,Watford,2.0,1.0,H,2006-2007
-Newcastle United,Wigan Athletic,,1.0,,2006-2007
+Newcastle United,Wigan Athletic,,,H,2006-2007
 Portsmouth,Blackburn Rovers,3.0,0.0,H,2006-2007
 Reading,Middlesbrough,3.0,2.0,H,2006-2007
-West Ham United,Charlton Athletic,,1.0,,2006-2007
+West Ham United,Charlton Athletic,,,H,2006-2007
 Bolton Wanderers,Tottenham Hotspur,2.0,0.0,H,2006-2007
 Manchester United,Fulham,5.0,1.0,H,2006-2007
 Chelsea,Manchester City,3.0,0.0,H,2006-2007
